@@ -1,0 +1,23 @@
+{
+  "field1": "value1",
+  "field2": 123234,
+  "field3": true,
+  "field4": 3.12,
+  "field5": [2,23,34,12,2,5],
+  "field6": ["v1", "v2", 324, 2.3, true],
+  "field7": {
+    "f1": "v1",
+    "f2": "v2"
+  },
+  "newJson": {
+    "name": {"first": "Tom", "last": "Anderson"},
+    "age": 30,
+    "children": ["Sarah", "Alex", "Jack"],
+    "fav.movie": "Harry Potter",
+    "friends": [
+      {"first": "Dale", "last": "Murphy", "age": 44, "nets": ["instagram", "facebook", "telegram"]},
+      {"first": "Mark", "last": "Roger", "age": 44, "nets": ["instagram", "facebook"]},
+      {"first": "Jane", "last": "Murphy", "age": 44, "nets": ["instagram","telegram"]}
+    ]
+  }
+}
